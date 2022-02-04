@@ -11,4 +11,35 @@ body {
 
 #videos {
     text-align: center;
+    transition: 0.5s;
+}
+
+.did {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: red;
+    transition: 3.0s;
+    margin: 30px;
+}
+
+.did:hover {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: red;
+    font-size: 30px;
+}
+
+.did1 {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: green;
+    margin: 10px;
+    transition: 0.5s;
+}
+
+.did1:hover {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: greenyellow;
+    font-size: 30px;
 }
