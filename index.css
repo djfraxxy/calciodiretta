@@ -43,3 +43,32 @@ body {
     color: greenyellow;
     font-size: 30px;
 }
+
+.did2 {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: green;
+    margin: 10px;
+    transition: 0.5s;
+}
+
+.did2:hover {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: greenyellow;
+    font-size: 20px;
+}
+.did3 {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: fuchsia;
+    transition: 0.7s;
+    text-decoration: none;
+}
+
+.did3:hover {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: firebrick;
+    font-size: 20px;
+}
